@@ -1,45 +1,45 @@
 Answer ID,Gender,Age,Server,Why Play?,Average Spent,Favorite Region,Main Character
 1,Male,25-34,America,Friend Recommended,$5 - $15,Liyue,Klee
-2,Female,18-24,Europe,Friend Recommended,None spent,Liyue,Bennett
-3,Female,Under 18,America,Friend Recommended,None spent,Liyue,Xinqiu
+2,Female,18-24,Europe,Friend Recommended,$0 ,Liyue,Bennett
+3,Female,Under 18,America,Friend Recommended,$0 ,Liyue,Xinqiu
 4,Female,25-34,Europe,Liked a Character Design,$5 - $15,Liyue,Razor
-5,Female,18-24,Europe,Friend Recommended,$4.99/Monthly,Liyue,Ganyu
-6,Other,18-24,Asia,Social Media Ads,$4.99/Monthly,Liyue,Xinqiu
+5,Female,18-24,Europe,Friend Recommended,$4.99 ,Liyue,Ganyu
+6,Other,18-24,Asia,Social Media Ads,$4.99 ,Liyue,Xinqiu
 7,Female,18-24,Europe,Other: VA,$5 - $15,Liyue,Childe
-8,Female,18-24,Europe,Liked a Character Design,$4.99/Monthly,Liyue,Keqing
-9,Other,25-34,America,Liked a Character Design,$4.99/Monthly,Liyue,Zhongli
-10,Female,25-34,America,Friend Recommended,$4.99/Monthly,Mondstadt,Bennett
-11,Other,Under 18,Europe,Liked a Character Design,None spent,Mondstadt,Kaeya
-12,Female,18-24,America,Other: Saw media of it,None spent,Liyue,Diluc
+8,Female,18-24,Europe,Liked a Character Design,$4.99 ,Liyue,Keqing
+9,Other,25-34,America,Liked a Character Design,$4.99 ,Liyue,Zhongli
+10,Female,25-34,America,Friend Recommended,$4.99 ,Mondstadt,Bennett
+11,Other,Under 18,Europe,Liked a Character Design,$0 ,Mondstadt,Kaeya
+12,Female,18-24,America,Other: Saw media of it,$0 ,Liyue,Diluc
 13,Other,18-24,America,Friend Recommended,$5 - $15,Mondstadt,Klee
-14,Female,18-24,Europe,Liked a Character Design,None spent,Liyue,Kaeya
-15,Other,18-24,America,Liked a Character Design,None spent,Liyue,Chongyun
-16,Female,18-24,America,Liked a Character Design,$4.99/Monthly,Liyue,Kaeya
-17,Female,Under 18,Europe,Friend Recommended,None spent,Mondstadt,Kaeya
-18,Male,Under 18,Europe,Friend Recommended,None spent,Mondstadt,Kaeya
-19,Female,18-24,America,Liked a Character Design,None spent,Liyue,Kaeya
-20,Female,18-24,Europe,Friend Recommended,None spent,Mondstadt,N/A
-21,Other,18-24,America,Friend Recommended,None spent,Liyue,Noelle
-22,Female,18-24,America,Liked a Character Design,None spent,Liyue,Chongyun
-23,Female,25-34,America,Liked a Character Design,None spent,Liyue,Kaeya
-24,Female,18-24,America,Friend Recommended,None spent,Dragonspine,Kaeya
-25,Female,18-24,Europe,Friend Recommended,None spent,Mondstadt,Chongyun
-26,Female,18-24,America,Liked a Character Design,$4.99/Monthly,Liyue,Noelle
-27,Female,18-24,America,Interested by the story.,$5 - $15,Liyue,Razor
-28,Other,18-24,Europe,Other: Saw others discussing it,$4.99/Monthly,Liyue,Jean
-29,Female,18-24,America,Friend Recommended,None spent,Mondstadt,Razor
+14,Female,18-24,Europe,Liked a Character Design,$0 ,Liyue,Kaeya
+15,Other,18-24,America,Liked a Character Design,$0 ,Liyue,Chongyun
+16,Female,18-24,America,Liked a Character Design,$4.99 ,Liyue,Kaeya
+17,Female,Under 18,Europe,Friend Recommended,$0 ,Mondstadt,Kaeya
+18,Male,Under 18,Europe,Friend Recommended,$0 ,Mondstadt,Kaeya
+19,Female,18-24,America,Liked a Character Design,$0 ,Liyue,Kaeya
+20,Female,18-24,Europe,Friend Recommended,$0 ,Mondstadt,N/A
+21,Other,18-24,America,Friend Recommended,$0 ,Liyue,Noelle
+22,Female,18-24,America,Liked a Character Design,$0 ,Liyue,Chongyun
+23,Female,25-34,America,Liked a Character Design,$0 ,Liyue,Kaeya
+24,Female,18-24,America,Friend Recommended,$0 ,Dragonspine,Kaeya
+25,Female,18-24,Europe,Friend Recommended,$0 ,Mondstadt,Chongyun
+26,Female,18-24,America,Liked a Character Design,$4.99 ,Liyue,Noelle
+27,Female,18-24,America,Interested by the story,$5 - $15,Liyue,Razor
+28,Other,18-24,Europe,Other: Saw others discussing it,$4.99 ,Liyue,Jean
+29,Female,18-24,America,Friend Recommended,$0 ,Mondstadt,Razor
 30,Female,18-24,America,Friend Recommended,$36-$50,Liyue,Razor
-31,Female,Under 18,Europe,Social Media Ads,None spent,Liyue,Mona
-32,Female,25-34,Europe,Liked a Character Design,None spent,Mondstadt,Kaeya
-33,Other,18-24,America,Social Media Ads,None spent,Mondstadt,Razor
-34,Other,25-34,America,Liked a Character Design,$4.99/Monthly,Liyue,Zhongli
-35,Other,18-24,Asia,Friend Recommended,None spent,Liyue,Noelle
-36,Other,18-24,America,Friend Recommended,None spent,Mondstadt,Venti
-37,Female,18-24,America,Interested by the story.,$5-$15,Mondstadt,Sucrose
-38,Other,25-34,America,Liked a Character Design,None spent,Mondstadt,Kaeya
-39,Other,25-34,America,Friend Recommended,None spent,Mondstadt,N/A
-40,Other,18-24,America,Liked a Character Design,None spent,Liyue,Diluc
-41,Female,18-24,Europe,Friend Recommended,None spent,Liyue,Zhongli
+31,Female,Under 18,Europe,Social Media Ads,$0 ,Liyue,Mona
+32,Female,25-34,Europe,Liked a Character Design,$0 ,Mondstadt,Kaeya
+33,Other,18-24,America,Social Media Ads,$0 ,Mondstadt,Razor
+34,Other,25-34,America,Liked a Character Design,$4.99 ,Liyue,Zhongli
+35,Other,18-24,Asia,Friend Recommended,$0 ,Liyue,Noelle
+36,Other,18-24,America,Friend Recommended,$0 ,Mondstadt,Venti
+37,Female,18-24,America,Interested by the story,$5-$15,Mondstadt,Sucrose
+38,Other,25-34,America,Liked a Character Design,$0 ,Mondstadt,Kaeya
+39,Other,25-34,America,Friend Recommended,$0 ,Mondstadt,N/A
+40,Other,18-24,America,Liked a Character Design,$0 ,Liyue,Diluc
+41,Female,18-24,Europe,Friend Recommended,$0 ,Liyue,Zhongli
 42,Other,18-24,America,Friend Recommended,$5-$15,Mondstadt,Klee
-43,Other,Under 18,Europe,Interested by the story.,None spent,Liyue,Razor
-44,Other,18-24,Asia,Liked a Character Design,None spent,Liyue,QiQi
+43,Other,Under 18,Europe,Interested by the story,$0 ,Liyue,Razor
+44,Other,18-24,Asia,Liked a Character Design,$0 ,Liyue,QiQi
